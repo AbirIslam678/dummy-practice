@@ -1,7 +1,53 @@
 #ccc{
     color: coral;
-    font-size: 50px;
+    font-size: 100px;
 }
 body{
     font-family: Poppins;
+    margin: 0;
+}
+.half-w{
+    width: 50%;
+    padding: 2%;
+}
+.half-w img{
+    width: 70%;
+    padding: 5%;
+}
+.fcl{
+    font-size: 30px;
+    margin-top: 70px;
+}
+.link-b{
+    text-decoration: none;
+   background-image: linear-gradient(orange, coral);
+    padding: 10px 40px;
+    border-radius: 50px;
+    color: white;
+    font-weight: 600;
+}
+#cccc{
+    color: coral;
+    font-size: 50px;
+}
+.top-banner{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+#first{
+    display: flex;
+}
+.sec2{
+    font-size: 50px;
+}
+.section2{
+    width: 50%;
+    padding: 300px 200px 100px 200px ;
+    text-align: justify;
+}
+.section21 img{
+    width: 100%;
+    padding-right: 10%;
+    padding-top: 150px;
+    padding-left: 30px;
 }
